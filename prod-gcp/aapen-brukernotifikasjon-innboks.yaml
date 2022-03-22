@@ -25,3 +25,6 @@ spec:
     - team: min-side
       application: tms-event-test-producer
       access: write
+    - team: teamnks
+      application: sf-brukernotifikasjon
+      access: write
