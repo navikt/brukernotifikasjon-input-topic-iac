@@ -70,3 +70,6 @@ spec:
     - team: teampam
       application: pam-brukernotifikasjon
       access: write
+    - team: teamnks
+      application: sf-brukernotifikasjon
+      access: write
