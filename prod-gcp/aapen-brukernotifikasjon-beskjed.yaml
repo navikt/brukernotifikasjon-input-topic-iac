@@ -64,3 +64,6 @@ spec:
     - team: teamdigihot
       application: hm-ditt-nav
       access: write
+    - team: teamdokumenthandtering
+      application: dokdistdittnav
+      access: write
