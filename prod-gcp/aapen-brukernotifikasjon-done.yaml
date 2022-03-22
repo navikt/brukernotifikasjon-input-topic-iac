@@ -73,3 +73,6 @@ spec:
     - team: teamnks
       application: sf-brukernotifikasjon
       access: write
+    - team: teamdokumenthandtering
+      application: dokdistdittnav
+      access: write
