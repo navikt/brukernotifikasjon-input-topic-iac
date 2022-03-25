@@ -82,3 +82,6 @@ spec:
     - team: teamdigihot
       application: hm-ditt-nav
       access: write
+    - team: min-side
+      application: tms-kafka-manager
+      access: read

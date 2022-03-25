@@ -31,3 +31,6 @@ spec:
     - team: teamnks
       application: sf-brukernotifikasjon
       access: write
+    - team: min-side
+      application: tms-kafka-manager
+      access: read
