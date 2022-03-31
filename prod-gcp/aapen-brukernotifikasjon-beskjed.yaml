@@ -31,6 +31,9 @@ spec:
     - team: team-soknad
       application: henvendelse
       access: write
+    - team: team-soknad
+      application: soknadsmottaker
+      access: write
     - team: teamdigisos
       application: sosialhjelp-dialog-api
       access: write
@@ -66,6 +69,9 @@ spec:
       access: write
     - team: teamdokumenthandtering
       application: dokdistdittnav
+      access: write
+    - team: helsearbeidsgiver
+      application: fritakagp
       access: write
     - team: min-side
       application: tms-kafka-manager

@@ -82,3 +82,9 @@ spec:
     - team: teamdigihot
       application: hm-ditt-nav
       access: write
+    - team: min-side
+      application: tms-kafka-manager
+      access: read
+    - team: helsearbeidsgiver
+      application: fritakagp
+      access: write

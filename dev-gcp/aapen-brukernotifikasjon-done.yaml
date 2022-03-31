@@ -85,5 +85,6 @@ spec:
     - team: teampam
       application: pam-brukernotifikasjon
       access: write
-
-
+    - team: min-side
+      application: tms-kafka-manager
+      access: read
