@@ -40,6 +40,9 @@ spec:
     - team: team-soknad
       application: soknadsmottaker
       access: write
+    - team: team-soknad
+      application: soknadsmottaker-newapi
+      access: write
     - team: teamdigisos
       application: sosialhjelp-dialog-api
       access: write
