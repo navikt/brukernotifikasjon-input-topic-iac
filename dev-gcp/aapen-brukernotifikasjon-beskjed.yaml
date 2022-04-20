@@ -88,3 +88,6 @@ spec:
     - team: helsearbeidsgiver
       application: fritakagp
       access: write
+    - team: aap
+      application: soknad-api
+      access: write
