@@ -82,3 +82,6 @@ spec:
     - team: min-side
       application: tms-kafka-manager
       access: read
+    - team: aap
+      application: soknad-api
+      access: write
