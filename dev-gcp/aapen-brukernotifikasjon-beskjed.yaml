@@ -41,7 +41,7 @@ spec:
       application: soknadsmottaker
       access: write
     - team: teamdigisos
-      application: sosialhjelp-dialog-api
+      application: sosialhjelp-dialog-api-dev
       access: write
     - team: teamfamilie
       application: familie-ef-mottak
