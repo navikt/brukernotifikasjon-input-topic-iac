@@ -47,7 +47,7 @@ spec:
       application: syfosoknadbrukernotifikasjon
       access: write
     - team: teamdigisos
-      application: sosialhjelp-dialog-api
+      application: sosialhjelp-dialog-api-dev
       access: write
     - team: teamsykefravr
       application: isdialogmote
