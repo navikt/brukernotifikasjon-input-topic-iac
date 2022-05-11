@@ -70,6 +70,9 @@ spec:
     - team: teamdokumenthandtering
       application: dokdistdittnav
       access: write
+    - team: teamdokumenthandtering
+      application: varsel2
+      access: write
     - team: helsearbeidsgiver
       application: fritakagp
       access: write
