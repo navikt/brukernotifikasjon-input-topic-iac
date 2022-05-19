@@ -94,3 +94,6 @@ spec:
     - team: teamdokumenthandtering
       application: varsel2
       access: write
+    - team: team-researchops
+      application: innbyggerpanelet
+      access: write
