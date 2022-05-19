@@ -95,5 +95,5 @@ spec:
       application: varsel2
       access: write
     - team: team-researchops
-      application: innbyggerpanelet
+      application: innbyggerpanelet-backend
       access: write
