@@ -37,6 +37,9 @@ spec:
     - team: flex
       application: syfosoknadbrukernotifikasjon
       access: write
+    - team: flex
+      application: flex-inntektsmelding-status
+      access: readwrite
     - team: team-soknad
       application: henvendelse
       access: write

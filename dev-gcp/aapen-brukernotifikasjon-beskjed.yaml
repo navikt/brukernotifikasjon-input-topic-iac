@@ -103,3 +103,6 @@ spec:
     - team: min-side
       application: varselinnboks
       access: write
+    - team: flex
+      application: flex-inntektsmelding-status
+      access: write

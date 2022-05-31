@@ -46,6 +46,9 @@ spec:
     - team: flex
       application: syfosoknadbrukernotifikasjon
       access: write
+    - team: flex
+      application: flex-inntektsmelding-status
+      access: readwrite
     - team: teamdigisos
       application: sosialhjelp-dialog-api-dev
       access: write
