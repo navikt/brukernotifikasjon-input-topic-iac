@@ -76,3 +76,7 @@ spec:
     - team: helsearbeidsgiver
       application: fritakagp
       access: write
+    - team: pdl
+      application: pdl-fullmakt
+      access: write
+
