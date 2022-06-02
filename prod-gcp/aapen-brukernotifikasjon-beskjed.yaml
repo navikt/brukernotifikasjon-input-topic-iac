@@ -79,4 +79,3 @@ spec:
     - team: pdl
       application: pdl-fullmakt
       access: write
-
