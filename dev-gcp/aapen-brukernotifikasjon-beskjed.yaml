@@ -97,3 +97,6 @@ spec:
     - team: team-researchops
       application: innbyggerpanelet-backend
       access: write
+    - team: pdl
+      application: pdl-fullmakt
+      access: write
