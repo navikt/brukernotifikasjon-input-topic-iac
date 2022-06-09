@@ -79,3 +79,6 @@ spec:
     - team: pdl
       application: pdl-fullmakt
       access: write
+    - team: flex
+      application: flex-inntektsmelding-status
+      access: write
