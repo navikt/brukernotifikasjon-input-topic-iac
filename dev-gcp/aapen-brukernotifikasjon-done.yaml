@@ -48,7 +48,7 @@ spec:
       access: write
     - team: flex
       application: flex-inntektsmelding-status
-      access: readwrite
+      access: write
     - team: teamdigisos
       application: sosialhjelp-dialog-api-dev
       access: write

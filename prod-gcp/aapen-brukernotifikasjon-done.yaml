@@ -39,7 +39,7 @@ spec:
       access: write
     - team: flex
       application: flex-inntektsmelding-status
-      access: readwrite
+      access: write
     - team: team-soknad
       application: henvendelse
       access: write
