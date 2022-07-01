@@ -94,3 +94,6 @@ spec:
     - team: aap
       application: soknad-api
       access: write
+    - team: pdl
+      application: pdl-fullmakt
+      access: write

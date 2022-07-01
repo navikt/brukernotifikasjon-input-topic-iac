@@ -82,3 +82,6 @@ spec:
     - team: teamdokumenthandtering
       application: dokdistdittnav
       access: write
+    - team: pdl
+      application: pdl-fullmakt
+      access: write
