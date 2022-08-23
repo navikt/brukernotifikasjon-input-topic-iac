@@ -85,3 +85,6 @@ spec:
     - team: min-side
       application: varselinnboks
       access: write
+    - team: team-researchops
+      application: innbyggerpanelet-backend
+      access: write
