@@ -85,3 +85,6 @@ spec:
     - team: pdl
       application: pdl-fullmakt
       access: write
+    - team: min-side
+      application: tms-kafka-manager
+      access: read
