@@ -106,3 +106,6 @@ spec:
     - team: flex
       application: flex-inntektsmelding-status
       access: write
+    - team: pensjonselvbetjening
+      application: pensjon-selvbetjening-soknad-alder-backend
+      access: write
