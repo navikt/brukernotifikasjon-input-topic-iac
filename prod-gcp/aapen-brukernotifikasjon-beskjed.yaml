@@ -91,3 +91,6 @@ spec:
     - team: team-researchops
       application: innbyggerpanelet-backend
       access: write
+    - team: aap
+      application: soknad-api
+      access: write
