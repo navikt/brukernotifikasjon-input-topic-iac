@@ -109,3 +109,6 @@ spec:
     - team: pensjonselvbetjening
       application: pensjon-selvbetjening-soknad-alder-backend
       access: write
+    - team: teamdagpenger
+      application: dp-behov-brukernotifikasjon
+      access: write
