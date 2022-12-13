@@ -88,3 +88,6 @@ spec:
     - team: pdl
       application: pdl-fullmakt
       access: write
+    - team: bidrag
+      application: bidrag-reisekostnad-api
+      access: write
