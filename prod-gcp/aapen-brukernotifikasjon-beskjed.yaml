@@ -97,3 +97,6 @@ spec:
     - team: teamdagpenger
       application: dp-behov-brukernotifikasjon
       access: write
+    - team: bidrag
+      application: bidrag-reisekostnad-api
+      access: write
