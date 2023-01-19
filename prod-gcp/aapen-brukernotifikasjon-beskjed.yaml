@@ -95,7 +95,7 @@ spec:
       application: soknad-api
       access: write
     - team: teamdagpenger
-      application: dp-behov-brukernotifikasjon
+      application: dp-varsel
       access: write
     - team: bidrag
       application: bidrag-reisekostnad-api
