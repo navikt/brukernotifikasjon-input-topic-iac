@@ -79,3 +79,6 @@ spec:
     - team: bidrag
       application: bidrag-reisekostnad-api
       access: write
+    - team: teamdagpenger
+      application: dp-varsel
+      access: write
