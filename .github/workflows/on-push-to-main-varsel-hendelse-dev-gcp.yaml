@@ -2,8 +2,6 @@ name: Deploy varsel-hendelse-topic i dev-gcp
 
 on:
   push:
-    branches:
-      - main
     paths:
       - dev-gcp/aapen-varsel-hendelse.yaml
 
