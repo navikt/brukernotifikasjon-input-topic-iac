@@ -97,3 +97,6 @@ spec:
     - team: teamdagpenger
       application: dp-varsel
       access: write
+    - team: team-esyfo
+      application: esyfovarsel
+      access: write
