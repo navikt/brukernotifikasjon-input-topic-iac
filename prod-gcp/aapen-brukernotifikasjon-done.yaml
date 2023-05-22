@@ -100,3 +100,6 @@ spec:
     - team: team-esyfo
       application: esyfovarsel
       access: write
+    - team: teamsykmelding
+      application: sykmeldinger-backend-kafka
+      access: write
