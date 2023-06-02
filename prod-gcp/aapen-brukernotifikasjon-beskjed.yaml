@@ -40,6 +40,9 @@ spec:
     - team: teamfamilie
       application: familie-ef-mottak
       access: write
+    - team: teamfamilie
+      application: familie-ef-iverksett
+      access: write
     - team: team-esyfo
       application: esyfovarsel
       access: write
