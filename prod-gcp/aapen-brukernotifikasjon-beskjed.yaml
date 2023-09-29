@@ -56,9 +56,6 @@ spec:
       application: veilarbdialog
       access: write
     - team: teamforeldrepenger
-      application: fpinfo-historikk
-      access: write
-    - team: teamforeldrepenger
       application: fpoversikt
       access: write
     - team: farskapsportal
