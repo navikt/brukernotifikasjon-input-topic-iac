@@ -59,7 +59,7 @@ spec:
       application: sf-brukernotifikasjon
       access: write
     - team: teamforeldrepenger
-      application: fpinfo-historikk
+      application: fpoversikt
       access: write
     - team: farskapsportal
       application: farskapsportal-api
@@ -96,4 +96,7 @@ spec:
       access: write
     - team: team-esyfo
       application: esyfovarsel
+      access: write
+    - team: teamsykmelding
+      application: sykmeldinger-backend-kafka
       access: write
