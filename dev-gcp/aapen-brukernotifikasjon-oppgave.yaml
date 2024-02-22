@@ -40,12 +40,6 @@ spec:
     - team: teamsykefravr
       application: isdialogmote
       access: write
-    - team: flex
-      application: spinnsyn-brukernotifikasjon
-      access: write
-    - team: flex
-      application: syfosoknadbrukernotifikasjon
-      access: write
     - team: pto
       application: veilarbaktivitet
       access: write

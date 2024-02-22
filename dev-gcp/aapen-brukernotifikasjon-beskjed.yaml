@@ -106,9 +106,6 @@ spec:
     - team: min-side
       application: varselinnboks
       access: write
-    - team: flex
-      application: flex-inntektsmelding-status
-      access: write
     - team: pensjonselvbetjening
       application: pensjon-selvbetjening-soknad-alder-backend
       access: write

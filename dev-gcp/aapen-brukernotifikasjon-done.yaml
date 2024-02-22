@@ -40,15 +40,6 @@ spec:
     - team: team-soknad
       application: soknadsmottaker
       access: write
-    - team: flex
-      application: spinnsyn-brukernotifikasjon
-      access: write
-    - team: flex
-      application: syfosoknadbrukernotifikasjon
-      access: write
-    - team: flex
-      application: flex-inntektsmelding-status
-      access: write
     - team: teamdigisos
       application: sosialhjelp-dialog-api-dev
       access: write
