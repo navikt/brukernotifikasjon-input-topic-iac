@@ -46,13 +46,13 @@ spec:
     - team: teamsykefravr
       application: isdialogmote
       access: write
-    - team: pto
-      application: veilarbaktivitet
-      access: write
     - team: dab
       application: veilarbaktivitet
       access: write
     - team: pto
+      application: veilarbdialog
+      access: write
+    - team: dab
       application: veilarbdialog
       access: write
     - team: teamsykmelding
