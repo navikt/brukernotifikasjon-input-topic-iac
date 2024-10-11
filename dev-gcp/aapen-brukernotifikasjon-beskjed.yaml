@@ -106,6 +106,9 @@ spec:
     - team: pdl
       application: pdl-fullmakt
       access: write
+    - team: repr
+      application: repr-fullmakt
+      access: write
     - team: min-side
       application: varselinnboks
       access: write
